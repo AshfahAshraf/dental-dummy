@@ -3,6 +3,8 @@
 /out/
 .next/
 out/
+.vercel
+
 
 # dependencies
 /node_modules
